@@ -30,7 +30,7 @@ class MockLaundryService implements LaundryServiceContract {
         items: [
           LaundryItem(id: 'item-4', name: 'Jas / Blazer', price: 25000.0, icon: 'checkroom'),
           LaundryItem(id: 'item-5', name: 'Gaun Sutra', price: 40000.0, icon: 'woman'),
-          LaundryItem(id: 'item-6', name: 'Selimut Tebal', price: 20000.0, icon: 'bed'),
+          LaundryItem(id: 'item-6', name: 'Selimut Tebals', price: 20000.0, icon: 'bed'),
         ],
       ),
       LaundryService(
