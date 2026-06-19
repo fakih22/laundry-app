@@ -36,7 +36,7 @@ class MockLaundryService implements LaundryServiceContract {
       LaundryService(
         id: 'svc-3',
         name: 'Setrika Saja',
-        description: 'Penyetrikaan profesional dengan uap air bertekanan tinggi untuk hasil ekstra rapi.',
+        description: 'Penyetrikaan profesional dengan uap air bertekanan tinggi untuk hasil ekstra rapi dan klimis.',
         icon: 'checkroom',
         basePrice: 4000.0,
         unit: 'kg',
