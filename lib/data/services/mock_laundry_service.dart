@@ -10,7 +10,7 @@ class MockLaundryService implements LaundryServiceContract {
       LaundryService(
         id: 'svc-1',
         name: 'Cuci & Lipat',
-        description: 'Pencucian premium dengan pelipatan rapih menggunakan detergen ramah lingkungan.',
+        description: 'Pencucian premium dengan pelipatan rapih menggunakan detergen ramah lingkungans.',
         icon: 'local_laundry_service',
         basePrice: 6000.0,
         unit: 'kg',
