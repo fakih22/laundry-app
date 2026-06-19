@@ -10,7 +10,7 @@ class CartState with ChangeNotifier {
   DateTime _deliverySchedule = DateTime.now().add(const Duration(days: 2));
   
   String _addressName = 'Rumah';
-  String _addressDetail = 'Jalan Kemanggisan, Penthouse 4B, Jl. Midtown Raya No. 12';
+  String _addressDetail = 'Jalan Kemanggisan, Penthouse 4C, Jl. Midtown Raya No. 12';
   
   PromoModel? _appliedPromo;
   final double _deliveryFee = 5000.0; // Standard Rp 5.000 delivery
